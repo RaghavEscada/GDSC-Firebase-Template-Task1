@@ -25,7 +25,7 @@ Welcome to Task 1! This task is exclusively for participants from the 2023 batch
 
 After completing either Option 1 or Option 2, please submit your public repository link using the Google Form.
 
-[Google Form Link](link-to-google-form)
+[Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSczZ58OiSc66JZs7bbRfon8dHdUlCVsbK6fCGHqI8cuHXMLhA/viewform)
 
 ## Additional Notes
 
